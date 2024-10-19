@@ -8,7 +8,7 @@ ProgrammingEssentials is designed to build a strong foundation in essential prog
 
 ## 🏗️ Structure
 
-The course is divided into three sprints, each focusing on progressively more advanced fundamental concepts:
+The Repo is divided into three sprints, each focusing on progressively more advanced fundamental concepts:
 
 1. **Basic Sprint**: 50 problems
 2. **Intermediate Sprint**: 50 problems
