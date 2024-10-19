@@ -1,6 +1,6 @@
 1. **Finding the Sum of Digits of a Number Until Zero**  
    **Difficulty**: Easy  
-   **Topics**: Basic Programming, Mathematical Computations  
+   **Topics**: Basic Programming, Mathematical Computation  
    **Description**: Write a program to repeatedly sum the digits of a number until the result is zero.  
    **Example**:  
    Input: `number = 123`  
