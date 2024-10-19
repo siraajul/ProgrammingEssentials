@@ -1,6 +1,6 @@
 1. **Determining Even/Odd Numbers**  
    **Difficulty**: Easy  
-   **Topics**: Basic Programming  
+   **Topics**: Basic Programmings  
    **Description**: Write a program to check whether a number is even or odd.  
    **Example**:  
    Input: `number = 4`  
