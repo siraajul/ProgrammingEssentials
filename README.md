@@ -1,10 +1,12 @@
 # ProgrammingEssentials
 
-Welcome to ProgrammingEssentials, your comprehensive guide to mastering core programming fundamentals through 150 carefully curated coding challenges!
+Welcome to ProgrammingEssentials, your comprehensive guide to mastering core programming fundamentals through 150
+carefully curated coding challenges!
 
 ## 🚀 Overview
 
-ProgrammingEssentials is designed to build a strong foundation in essential programming concepts. Perfect for absolute beginners, this course focuses on the building blocks of coding that are crucial across all programming languages.
+ProgrammingEssentials is designed to build a strong foundation in essential programming concepts. Perfect for absolute
+beginners, this course focuses on the building blocks of coding that are crucial across all programming languages.
 
 ## 🏗️ Structure
 
@@ -36,25 +38,26 @@ The Repo is divided into three sprints, each focusing on progressively more adva
 
 ## 📚 Learning Path
 
-1. **Basic Sprint -Sprint_01**: 
-   - Variables and data types
-   - Basic input/output
-   - Simple calculations
-   - Introduction to strings and arrays
+1. **Basic Sprint -Sprint_01**:
+    - Variables and data types
+    - Basic input/output
+    - Simple calculations
+    - Introduction to strings and arrays
 
-2. **Intermediate Sprint -Sprint_02**: 
-   - Conditional statements (if/else)
-   - Loops (for, while)
-   - More complex string and array operations
+2. **Intermediate Sprint -Sprint_02**:
+    - Conditional statements (if/else)
+    - Loops (for, while)
+    - More complex string and array operations
 
-3. **Advanced Sprint -Sprint_03**: 
-   - Functions/Methods
-   - Combining multiple concepts
-   - Solving more complex problems using fundamental concepts
+3. **Advanced Sprint -Sprint_03**:
+    - Functions/Methods
+    - Combining multiple concepts
+    - Solving more complex problems using fundamental concepts
 
 ## 🤝 Contributing
 
-We welcome contributions! If you have suggestions for new problems, improvements to existing ones, or any other enhancements, please open an issue or submit a pull request.
+We welcome contributions! If you have suggestions for new problems, improvements to existing ones, or any other
+enhancements, please open an issue or submit a pull request.
 
 ## 📄 License
 
@@ -62,6 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 🌟 Support
 
-If you find ProgrammingEssentials helpful, please give it a star on GitHub and share it with others who might benefit from it!
+If you find ProgrammingEssentials helpful, please give it a star on GitHub and share it with others who might benefit
+from it!
 
 Happy coding, and welcome to ProgrammingEssentials! 🎉
